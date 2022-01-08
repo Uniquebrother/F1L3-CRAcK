@@ -24,5 +24,7 @@ Tools Setup & Run :
 
 $ clear && ls && cd F1L3-CRAcK && ls
 
-$ python2 Cybercriminal.py.py
+$ python2 Cybercriminal.py
+
+
  For Us3r $ Pass Like &  Message Cyber Police page
