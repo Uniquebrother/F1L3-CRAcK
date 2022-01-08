@@ -1,8 +1,7 @@
 #!/usr/bin/python2
 #coding=utf-8
-
-
-import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
+import base64
+exec(base64.b64decode("import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
 from mechanize import Browser
@@ -497,4 +496,4 @@ def brute():
             super()
 
 if __name__ == '__main__':
-	login()
+	login()"))
